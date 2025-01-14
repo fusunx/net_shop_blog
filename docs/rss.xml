@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>网飞小铺</title><link>https://fusunx.github.io/net_shop_blog</link><description>专业合租平台</description><copyright>网飞小铺</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://admin.lailaieshop.com/uploads/99ce2718-fd25-464e-9f09-f939cab19e73.png</url><title>avatar</title><link>https://fusunx.github.io/net_shop_blog</link></image><lastBuildDate>Tue, 14 Jan 2025 05:56:38 +0000</lastBuildDate><managingEditor>网飞小铺</managingEditor><ttl>60</ttl><webMaster>网飞小铺</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>网飞小铺</title><link>https://fusunx.github.io/net_shop_blog</link><description>专业合租平台</description><copyright>网飞小铺</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://admin.lailaieshop.com/uploads/99ce2718-fd25-464e-9f09-f939cab19e73.png</url><title>avatar</title><link>https://fusunx.github.io/net_shop_blog</link></image><lastBuildDate>Tue, 14 Jan 2025 05:58:35 +0000</lastBuildDate><managingEditor>网飞小铺</managingEditor><ttl>60</ttl><webMaster>网飞小铺</webMaster><item><title>奈飞问题</title><link>https://fusunx.github.io/net_shop_blog/post/nai-fei-wen-ti.html</link><description>不要同一时间频繁尝试几次最多尝试两次不行按下面步骤来&#13;
+&#13;
+&#13;
+&#13;
+账户密码没有问题，删除app，重新下载app换节点再试，如果是网页登录清除之前登录cookie（登录记录）换节点再试，还不行，让机场老板维护路线，路线不行，不同路线对节点要求不一样，那个客户端不行让机场老板维护那个客户端路线，同一时间不要频繁尝试，节点不行频繁尝试会导致封号，‼️机场路线要机场老板更新，翻墙路线也自己更新一下，&#13;
+&#13;
+节点不行不要频繁尝试&#13;
+&#13;
+&#13;
+直接登陆使用，可以登陆的话不用往下看。</description><guid isPermaLink="true">https://fusunx.github.io/net_shop_blog/post/nai-fei-wen-ti.html</guid><pubDate>Tue, 14 Jan 2025 05:50:55 +0000</pubDate></item><item><title>第一篇文章</title><link>https://fusunx.github.io/net_shop_blog/post/di-yi-pian-wen-zhang.html</link><description>测试一下。</description><guid isPermaLink="true">https://fusunx.github.io/net_shop_blog/post/di-yi-pian-wen-zhang.html</guid><pubDate>Tue, 14 Jan 2025 04:18:57 +0000</pubDate></item></channel></rss>

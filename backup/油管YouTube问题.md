@@ -22,7 +22,7 @@ https://play.google.com/store/account/orderhistory?hl=en
 然后我会发你邮箱一份邀请链接，点击链接加入就行，需要手动自己点击链接加入，点击彻底，不是点一下就成功了，成功会有提示
 ![CleanShot 2025-01-13 at 22 14 48@2x](https://github.com/user-attachments/assets/46d5be3e-dcde-4116-9cb7-cfcdde6a36c3)
 ![CleanShot 2024-11-18 at 04 13 45@2x](https://github.com/user-attachments/assets/b22a1549-e4dc-4e22-925e-0c8d69d1fd5d)
-< img width="284" alt="logo-round" src="https://github.com/user-attachments/assets/b22a1549-e4dc-4e22-925e-0c8d69d1fd5d" />
+
 <img width="500" alt="logo-round" src="https://github.com/user-attachments/assets/91439924-3e6b-4aaf-a4d5-802e92bb7f2f" />
 
 
